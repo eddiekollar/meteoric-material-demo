@@ -1,3 +1,0 @@
-[submodule "packages/meteor-material-design"]
-	path = packages/meteor-material-design
-	url = git@github.com:npvn/meteor-material-design.git
